@@ -1241,6 +1241,11 @@ After=etcd.service
    </para>
   </note>
  </section>
+
+ <section xml:id="sec-performance-monitoring">
+  <title>Monitoring performance</title>
+ </section>
+
  <section xml:id="sec-user-mamagement">
   <title>User management</title>
   <para>
